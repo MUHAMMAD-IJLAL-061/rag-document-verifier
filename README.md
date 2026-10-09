@@ -63,7 +63,8 @@ On the free Gemini tier, prompts may be used by Google to improve its products. 
 
 Sample Images
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/dc111a99-9883-4f0a-952f-b7fe46d716ff" />
-<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/f16ed822-0310-4d6a-aecb-a779ea40eb9a" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a1f9dd5e-3caf-4b5f-8f75-0fd89c08d797" />
+
 
 
 ## Team
