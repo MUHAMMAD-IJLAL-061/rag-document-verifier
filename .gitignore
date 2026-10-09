@@ -1,0 +1,8 @@
+.env
+*.key
+*.pdf
+*.index
+index/
+index_en/
+__pycache__/
+.ipynb_checkpoints/
