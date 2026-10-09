@@ -2,6 +2,7 @@
 
 What it is
 A system that answers questions about any PDF. The user uploads a PDF, asks a question in English, and gets a short answer with page numbers and the source text. If the document does not contain the answer, the system says “Not found in the document” instead of guessing.
+sample attached at the bottum
 
 How it works
 
@@ -59,5 +60,11 @@ One-sentence description
 “It lets you ask questions about any PDF and get answers with page numbers, and it says ‘not found’ instead of guessing.”
 ## Privacy note
 On the free Gemini tier, prompts may be used by Google to improve its products. Use only non-sensitive documents.
+
+Sample Images
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/dc111a99-9883-4f0a-952f-b7fe46d716ff" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/f16ed822-0310-4d6a-aecb-a779ea40eb9a" />
+
+
 ## Team
 M.Ijlal
